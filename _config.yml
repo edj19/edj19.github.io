@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
-tagline: A fresh looking and responsive theme for Jekyll
+title : photon jun
+tagline: Personal learnings and ideas
 assets: /assets
 url:
 baseurl:
